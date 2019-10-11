@@ -8,7 +8,7 @@ Create a window that lets users enter a U.S. dollar amount and convert it into C
 
 ## Analysis Steps
 
-Create a pane with two TextFields that have labels and a Convert button. Create an action handler that converts the US dollars into Canadian dollars.
+Using JavaFX, create a pane with two TextFields that have labels and a Convert button. Create an action handler that converts the US dollars into Canadian dollars.
 
 ### Design
 
