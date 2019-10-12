@@ -1,4 +1,4 @@
-#Preface for Portfolio
+# Preface for Portfolio
 This is a group project I worked on with two other classmates. The assignment was to create a Subway ordering system. We worked on the general design and concept together as a team, and then split up who would work on what screens, as well as other parts of the project. We decided to create a workflow where each category (bread, meat, veggies, etc.) would appear on its own screen (or actually its own scene in JavaFX), and users could click through the workflow. Then the Summary screen shows their selections. Users can go back and change their selections, and the updates are reflected on the Summary screen. I created the bread and cheese screens, as well as the wireframe and user guide. My group members created the other screens, the project log, and the following README file. 
 
 ## "Subway Ordering System"
